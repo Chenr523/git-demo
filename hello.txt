@@ -12,4 +12,4 @@ HELLO git!
 HELLO git!
 HELLO git!
 HELLO git!
-HELLO git!
+HELLO git!hot-fix test
